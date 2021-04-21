@@ -4,3 +4,4 @@ a = pd.read_csv("/Users/kswaminathan/Desktop/23.01.2019_AKA_EHP_BR Video_Q1 2019
 
 print(a.head(2))
 
+print("Hi Kruthika")
